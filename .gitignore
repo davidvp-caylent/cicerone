@@ -60,4 +60,8 @@ Thumbs.db
 !.streamlit/config.toml
 !.streamlit/secrets.toml.example
 
+# Bedrock AgentCore (archivos grandes)
+.bedrock_agentcore/
+.bedrock_agentcore.yaml
+
 .bedrock_agentcore/
