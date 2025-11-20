@@ -59,3 +59,5 @@ Thumbs.db
 .streamlit/*.toml
 !.streamlit/config.toml
 !.streamlit/secrets.toml.example
+
+.bedrock_agentcore/
